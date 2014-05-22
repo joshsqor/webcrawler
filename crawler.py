@@ -1,13 +1,17 @@
 import urllib2
 import time
+from BeautifulSoup import BeautifulSoup 
 
-hosts = ["http://yahoo.com", "http://google.com", "http://amazon.com",
-"http://ibm.com", "http://apple.com"]
+hosts = ["https://www.wikipedia.org/"]
 
 start = time.time()
 #grabs urls of hosts and prints first 1024 bytes of page
 for host in hosts:
   url = urllib2.urlopen(host)
-  print url.read(1024)
+  chunk = url.read()
+  print chunk
 
 print "Elapsed Time: %s" % (time.time() - start)
+
+soup = BeautifulSoup(chunk)
+print soup.findAll(['title'])
