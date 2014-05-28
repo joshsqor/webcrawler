@@ -1,0 +1,2 @@
+/** GENERATED: Fri Apr 11 15:21:52 PDT 2014 **/
+(function($){$(window).load(function(){if(espn.cookie.get("pluginCheck")===null){var adbar=$("#AdBarAdHeader, .yontoolayerwidget");if(adbar.length>0){anTrackLink(window,"espn","plugin","buzzdock");}espn.cookie.set("pluginCheck","true",30);}});})(jQuery);

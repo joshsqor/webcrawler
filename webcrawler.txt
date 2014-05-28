@@ -1,0 +1,21 @@
+#web crawler resources to look into: 
+
+
+
+
+
+Python Page Spider Web Crawler Tutorial 
+https://www.youtube.com/watch?v=SFas42HBtMg
+
+My Python Web Crawler: 
+http://www.blangdon.com/writing/about/my-python-web-crawler/
+
+How to build a simple web crawler:
+http://answers.oreilly.com/topic/1088-how-to-build-a-simple-web-crawler/
+
+A Basic Website Crawler, in Python, in 12 Lines of Code:
+http://null-byte.wonderhowto.com/inspiration/basic-website-crawler-python-12-lines-code-0132785/
+
+
+
+

@@ -1,0 +1,30 @@
+SBN.Campaigns.Components.callbacks.cb10227frontpage({"ads":
+ {
+  "version": 1,
+  "count": 1,
+  "pixels":"http://us-u.openx.net/w/1.0/pd?plm=5&ph=0238cbd0c099a74a0f401d17ffde973b8e941e1d",
+  "ad": [
+        {
+         "adunitid":17194,
+         "adid":1799034,
+         "type":"html",
+         "html":"<div id='beacon_-c2aJK2t2FmN2UeWBPOYqypTlY' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://ox-d.sbnation.com/w/1.0/ri?ts=1fHJpZD1jY2Q1Yzc5Mi0yZWRkLTQ1ODAtOWY3YS1lNDU4YzIyZGVmNGV8cnQ9MTQwMTIyNjQ0M3xhdWlkPTE3MTk0fGF1bT1ETUlELldFQnxzaWQ9MjY4MHxwdWI9Mzk3MHxwYz1VU0R8cmFpZD01MWI2MWJiMS1kOWQwLTRhZTAtODU5Zi1hZDI5Y2IyOGRmNzB8YWlkPTE3OTkwMzR8dD00fGFzPTF4MXxsaWQ9MTA0MTA5NHxvaWQ9MjgwNzAyfHA9MHxwcj0wfGFkdj0xNDA2NDl8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfGJtPUJVWUlORy5IT1VTRXx1cj03TEt3TW1CRVYx'/></div><!-- campaign_component_id:10227 -->",
+         "is_fallback":0,
+         "creative":[
+           {
+             "width":"1",
+             "height":"1",
+             "target":"_self",
+             "mime":"text/html",
+             "media": "<!-- campaign_component_id:10227 -->",
+             "tracking":{
+               "impression":"http://ox-d.sbnation.com/w/1.0/ri?ts=1fHJpZD1jY2Q1Yzc5Mi0yZWRkLTQ1ODAtOWY3YS1lNDU4YzIyZGVmNGV8cnQ9MTQwMTIyNjQ0M3xhdWlkPTE3MTk0fGF1bT1ETUlELldFQnxzaWQ9MjY4MHxwdWI9Mzk3MHxwYz1VU0R8cmFpZD01MWI2MWJiMS1kOWQwLTRhZTAtODU5Zi1hZDI5Y2IyOGRmNzB8YWlkPTE3OTkwMzR8dD00fGFzPTF4MXxsaWQ9MTA0MTA5NHxvaWQ9MjgwNzAyfHA9MHxwcj0wfGFkdj0xNDA2NDl8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfGJtPUJVWUlORy5IT1VTRXx1cj03TEt3TW1CRVYx",
+               "inview":"http://ox-d.sbnation.com/w/1.0/rvi?ts=1fHJpZD1jY2Q1Yzc5Mi0yZWRkLTQ1ODAtOWY3YS1lNDU4YzIyZGVmNGV8cnQ9MTQwMTIyNjQ0M3xhdWlkPTE3MTk0fGF1bT1ETUlELldFQnxzaWQ9MjY4MHxwdWI9Mzk3MHxwYz1VU0R8cmFpZD01MWI2MWJiMS1kOWQwLTRhZTAtODU5Zi1hZDI5Y2IyOGRmNzB8YWlkPTE3OTkwMzR8dD00fGFzPTF4MXxsaWQ9MTA0MTA5NHxvaWQ9MjgwNzAyfHA9MHxwcj0wfGFkdj0xNDA2NDl8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfGJtPUJVWUlORy5IT1VTRXx1cj03TEt3TW1CRVYx",
+               "click":"http://ox-d.sbnation.com/w/1.0/rc?ts=1fHJpZD1jY2Q1Yzc5Mi0yZWRkLTQ1ODAtOWY3YS1lNDU4YzIyZGVmNGV8cnQ9MTQwMTIyNjQ0M3xhdWlkPTE3MTk0fGF1bT1ETUlELldFQnxzaWQ9MjY4MHxwdWI9Mzk3MHxwYz1VU0R8cmFpZD01MWI2MWJiMS1kOWQwLTRhZTAtODU5Zi1hZDI5Y2IyOGRmNzB8YWlkPTE3OTkwMzR8dD00fGFzPTF4MXxsaWQ9MTA0MTA5NHxvaWQ9MjgwNzAyfHA9MHxwcj0wfGFkdj0xNDA2NDl8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfGJtPUJVWUlORy5IT1VTRXx1cj03TEt3TW1CRVYx"
+             }
+           }
+         ]
+        }
+  ]
+ }
+});

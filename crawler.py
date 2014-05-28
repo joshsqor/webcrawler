@@ -2,7 +2,7 @@ import urllib2
 import time
 from BeautifulSoup import BeautifulSoup 
 
-hosts = ["https://www.wikipedia.org/"]
+hosts = ["file:///Users/joshballesteros/Documents/josh/source_code/webcrawler/espn.html"]
 
 start = time.time()
 #grabs urls of hosts and prints first 1024 bytes of page
@@ -15,3 +15,5 @@ print "Elapsed Time: %s" % (time.time() - start)
 
 soup = BeautifulSoup(chunk)
 print soup.findAll(['title'])
+
+

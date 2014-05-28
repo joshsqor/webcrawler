@@ -1,0 +1,26 @@
+OX_3959669605({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"http://ox-d.sbnation.com/{medium}/1.0/{rtype}?ts={txn_state}",
+    "pixels":"http://us-u.openx.net/w/1.0/pd?plm=5&ph=0238cbd0c099a74a0f401d17ffde973b8e941e1d",
+    "adunits" : [
+      {
+        "auid":"289930",
+        "pgid":"13535",
+        "chain":[
+          {
+            "is_fallback":0,
+            "ad_id":"1707501",
+            "width":"300",
+            "height":"250",
+            "html":"<!-- Conversant Media 300x250 Medium Rectangle CODE for SBnation - ATF - Catch ALL -->\n<script type=\"text/javascript\">var vclk_options = {sid:88111,media_id:6,media_type:8,version:\"1.4\"};</script><script class=\"vclk_pub_code\" type=\"text/javascript\" src=\"http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=88111&media_id=6&media_type=8&version=1.4&exc=1\"></script><noscript><a href=\"http://media.fastclick.net/w/click.here?sid=88111&m=6&c=1\" target=\"_blank\"><img src=\"http://media.fastclick.net/w/get.media?sid=88111&m=6&tp=8&d=s&c=1&vcm_acv=1.4\" width=\"300\" height=\"250\" border=\"1\"></a></noscript>\n<!-- Conversant Media 300x250 Medium Rectangle CODE for SBnation - ATF - Catch ALL -->",
+            "target":"_blank",
+            "ts":"1fHBpZD0xMzUzNXxyaWQ9YjNhNDM2YzUtNzU5ZC00NDI4LWJjMmEtNjI3ODBlYjM3ZDMyfHJ0PTE0MDEyMjY0NDJ8YXVpZD0yODk5MzB8YXVtPURNSUQuV0VCfHNzaWQ9MzY4MTF8c2lkPTU2MTk3fHB1Yj0zOTcwfHBjPVVTRHxyYWlkPTEyYzhhNjRmLWIxNjctNDMyNi1hMmIxLWZlZjBhZDlmYmUzNXxhaWQ9MTcwNzUwMXx0PTR8YXM9MzAweDI1MHxsaWQ9OTk1ODEyfG9pZD0yNTY5NzB8cD04ODB8cHI9ODgwfGFkdj0xMzI0ODN8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfGJtPUJVWUlORy5OT05HVUFSQU5URUVEfGxjPTJ8bHc9MTQ0MHx1cj13UTI5T2kwYVNP",
+            "type":"html",
+            "ad_url":"<!-- Conversant Media 300x250 Medium Rectangle CODE for SBnation - ATF - Catch ALL -->\n<script type=\"text/javascript\">var vclk_options = {sid:88111,media_id:6,media_type:8,version:\"1.4\"};</script><script class=\"vclk_pub_code\" type=\"text/javascript\" src=\"http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=88111&media_id=6&media_type=8&version=1.4&exc=1\"></script><noscript><a href=\"http://media.fastclick.net/w/click.here?sid=88111&m=6&c=1\" target=\"_blank\"><img src=\"http://media.fastclick.net/w/get.media?sid=88111&m=6&tp=8&d=s&c=1&vcm_acv=1.4\" width=\"300\" height=\"250\" border=\"1\"></a></noscript>\n<!-- Conversant Media 300x250 Medium Rectangle CODE for SBnation - ATF - Catch ALL -->"
+          }
+        ]
+      }
+    ]
+  }
+});
