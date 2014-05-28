@@ -1,19 +1,22 @@
-import urllib2
-import time
-from BeautifulSoup import BeautifulSoup 
+"""
+Webcrawler/scraper that extracts news stories
 
-hosts = ["file:///Users/joshballesteros/Documents/josh/source_code/webcrawler/espn.html"]
+1.  Read a website or html file
+2.  Look for paragraph tag and extract it with BeautifulSoup
+3.  write out paragraph to temporary file, name file paragraph.txt
 
-start = time.time()
-#grabs urls of hosts and prints first 1024 bytes of page
-for host in hosts:
-  url = urllib2.urlopen(host)
-  chunk = url.read()
-  print chunk
+"""
 
-print "Elapsed Time: %s" % (time.time() - start)
 
-soup = BeautifulSoup(chunk)
-print soup.findAll(['title'])
+from BeautifulSoup import BeautifulSoup
+
+#Step 1 read in yahoo file
+
+
+#Step 2 extract paragraph from file
+
+
+#Step 3 write out paragraph to file out.txt
+
 
 
